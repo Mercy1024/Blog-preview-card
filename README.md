@@ -10,7 +10,6 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
- 
 
 **Note: Delete this note and update the table of contents based on what sections you keep.**
 
@@ -28,7 +27,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: ()
+- Solution URL: (https://www.frontendmentor.io/solutions/blog-preview-carc-NNIMbaxtzU)
 - Live Site URL: (https://blog-preview-card-olive-theta.vercel.app/)
 
 ## My process
